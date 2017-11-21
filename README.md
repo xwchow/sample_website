@@ -1,1 +1,1 @@
-Sample website taken from [https://www.learnenough.com/html-tutorial]
+Sample website from [Learn Enough to be Dangerous](https://www.learnenough.com/html-tutorial)
